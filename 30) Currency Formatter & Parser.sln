@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30) Currency Formatter & Parser", "30) Currency Formatter & Parser.csproj", "{D29C8020-052E-4C18-A068-A7CE0EF6683B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29C8020-052E-4C18-A068-A7CE0EF6683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29C8020-052E-4C18-A068-A7CE0EF6683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29C8020-052E-4C18-A068-A7CE0EF6683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29C8020-052E-4C18-A068-A7CE0EF6683B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC28F05-8887-48A7-878C-F4646D412D9B}
+	EndGlobalSection
+EndGlobal

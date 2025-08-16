@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\obj\Debug\30) Currency Formatter & Parser.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\obj\Debug\30) Currency Formatter & Parser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\bin\Debug\30) Currency Formatter & Parser.exe.config
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\bin\Debug\30) Currency Formatter & Parser.exe
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\bin\Debug\30) Currency Formatter & Parser.pdb
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\obj\Debug\30) Currency Formatter & Parser.exe
+C:\Users\HP\source\repos\30) Currency Formatter & Parser\obj\Debug\30) Currency Formatter & Parser.pdb
